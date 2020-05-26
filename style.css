@@ -11,6 +11,10 @@ padding-bottom: 5px;
 border-bottom: 1px solid #ffffff;
 }
 
+#hal{
+    width: 100px;
+}
+
 h2{
 font-size: 2.2em;
 }
